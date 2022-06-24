@@ -6,7 +6,7 @@
 </div>
 
 
-We're a medical college dedicated training GPs 
+We're a medical college dedicated to training GPs 
 - to have the skills, confidence, commitment and passion ✨
 - to work in rural and regional areas across Australia 🦘 and beyond 🐧
 
