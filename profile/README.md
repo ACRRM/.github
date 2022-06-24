@@ -17,5 +17,5 @@ Accredited by the Australian Medical Council 🏛️ we're committed providing c
 
 Rural and remote communities can thrive when access to comprehensive, continuous, and high-quality healthcare services are guaranteed.
 
-It feels good to get out of bed for work every day ☕ <a target=”_blank” rel="noopener noreferrer" href="https://www.acrrm.org.au/work-with-us/" >You can feel the same too!</a>
+It feels good to get out of bed for work every day ☕👨‍💻👩‍💻 <a target=”_blank” rel="noopener noreferrer" href="https://www.acrrm.org.au/work-with-us/" >You can feel the same too!</a>
 
