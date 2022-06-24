@@ -10,10 +10,12 @@ We're a medical college dedicated to training GPs
 - to have the skills, confidence, commitment and passion ✨
 - to work in rural and regional areas across Australia 🦘 and beyond 🐧
 
-Accredited by the Australian Medical Council 🏛️ we're committed to having 
+Accredited by the Australian Medical Council 🏛️ we're committed providing communities with
 - the right doctors 👩‍⚕️👨‍⚕️ 
 - in the right place 🏥
-- with the right skills 🩺 to provide communities with excellent health care.
+- with the right skills 🩺
+
+Rural and remote communities can thrive when access to comprehensive, continuous, and high-quality healthcare services are guaranteed.
 
 It feels good to get out of bed for work every day ☕ <a target=”_blank” rel="noopener noreferrer" href="https://www.acrrm.org.au/work-with-us/" >You can feel the same too!</a>
 
