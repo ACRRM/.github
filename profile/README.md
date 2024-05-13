@@ -1,7 +1,7 @@
 <div align="center">  
   <img src="https://raw.githubusercontent.com/ACRRM/.github/main/profile/ACRRM_Logo_RGB_Marque_Full%20Colour.png" width="100px" />
   <h1>G'day! 🤠</h1>
-  <h3>Welcome to the Australian College of Rural and Remote Medicine</h3>
+  <h3>Welcome to ACRRM</h3>
 
 </div>
 
