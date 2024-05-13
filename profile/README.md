@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="https://www.acrrm.org.au/images/default-source/logos/acrrm-logo-primary-colour.svg" />
+  <img src="https://avatars.githubusercontent.com/u/7286746?s=400&u=71986bad9ff96f31592356c501d8b06e3961ed3b&v=4" width="200px" />
   <h1>G'day! 🤠</h1>
   <h3>Welcome to the Australian College of Rural and Remote Medicine</h3>
 
